@@ -1,16 +1,15 @@
-### Hi there 👋
+💫 ABOUT ME
+🙋‍♂️ Hola, soy Nicolás Mancera, Ingeniero Industrial y Fullstack Developer en búsqueda de oportunidades profesionales en tecnología.
 
-<!--
-**NmanceraBarrera/NmanceraBarrera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 He trabajado en desarrollo Fullstack, abordando proyectos de principio a fin y aportando soluciones eficientes a equipos de trabajo.
 
-Here are some ideas to get you started:
+📚 Mi formación en Ingeniería Industrial me proporciona una perspectiva versátil para optimizar procesos y resolver problemas.
+📌 Busco contribuir con mis habilidades en un entorno desafiante de la industria tecnológica.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📪 Para colaboraciones y oportunidades, puedes contactarme en n.mancera.dev@gmail.com.
+
+🌐 SOCIALS
+LinkedIn
+
+💻 TECH STACKS
+C# CSS3 Dart HTML5 JavaScript PHP Python TypeScript AWS Azure Firebase Angular.js Django Express.js Flutter jQuery Laravel NPM NodeJS Nodemon Redux React Router React Query React Native React Vue.js Vite Firebase Postgres MySQL MongoDB Canva Figma Docker Trello Power Bi
