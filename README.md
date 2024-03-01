@@ -1,4 +1,4 @@
-💫 #ABOUT ME
+# 💫 ABOUT ME
 🙋‍♂️ Hola, soy Nicolás Mancera, Ingeniero Industrial y Fullstack Developer en búsqueda de oportunidades profesionales en tecnología.
 
 💼 He trabajado en desarrollo Fullstack, abordando proyectos de principio a fin y aportando soluciones eficientes a equipos de trabajo.
@@ -8,7 +8,7 @@
 
 📪 Para colaboraciones y oportunidades, puedes contactarme en n.mancera.dev@gmail.com.
 
-🌐 #SOCIALS
+# 🌐 SOCIALS
 LinkedIn
 
 # 💻 TECH STACKS
