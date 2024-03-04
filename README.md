@@ -6,7 +6,7 @@
 📚 Mi formación en Ingeniería Industrial me proporciona una perspectiva versátil para optimizar procesos y resolver problemas.
 📌 Busco contribuir con mis habilidades en un entorno desafiante de la industria tecnológica.
 
-📪 Para colaboraciones y oportunidades, puedes contactarme en n.mancera.dev@gmail.com.
+📪 Para colaboraciones y oportunidades, puedes contactarme en n.mancera.dev@gmail.com o https://www.linkedin.com/in/nicolas-mancera-barrera-706764295/
 
 # 🌐 SOCIALS
 LinkedIn
